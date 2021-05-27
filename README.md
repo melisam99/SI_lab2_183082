@@ -14,7 +14,10 @@
 
 ### Тест случаи според критериумот  Multiple condition
 Во табелата се пркажани сите можни случаи според Multiple condition критериумот:
-![image](https://user-images.githubusercontent.com/82324735/119888573-cdb07e80-bf35-11eb-8412-ba61751201a4.png)
+![image](https://user-images.githubusercontent.com/82324735/119890728-78c23780-bf38-11eb-88f1-3a8686080311.png)
+
+Подоле се прикажани тест случаите(се праќаат објекти од класата Time):
+![image](https://user-images.githubusercontent.com/82324735/119890843-998a8d00-bf38-11eb-8551-98293ea214f3.png)
 
 ### Објаснување на напишаните unit tests
 ... ...
