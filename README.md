@@ -13,9 +13,8 @@
 ![image](https://user-images.githubusercontent.com/82324735/119885065-a192fe80-bf31-11eb-815a-2a8d91e66c4c.png)
 
 ### Тест случаи според критериумот  Multiple condition
-....
-
-
+Во табелата се пркажани сите можни случаи според Multiple condition критериумот:
+![image](https://user-images.githubusercontent.com/82324735/119888573-cdb07e80-bf35-11eb-8412-ba61751201a4.png)
 
 ### Објаснување на напишаните unit tests
 ... ...
